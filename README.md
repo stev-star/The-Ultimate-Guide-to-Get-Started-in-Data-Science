@@ -7,38 +7,63 @@ and algorothms to extract knowledge or business intelligence from structured or 
 also,Data Science is a study of data, where you maintain datsets and derive insights from the dataset.
 Data Science uses different parts mentioned in the pattern below to solve the problems
 
-## Data Science involves 
+## Data Science involves:
+
 ®Storing and Collecting data
+
 ®Cleaning and Exploring data
+
 ®Visualizing Data
+
 ®Preparing the data to be ready for implementation of machine learning models
 
 
 ## some basic terminology used in data science:
+
 -Observations - data points in your dataset (rows)
+
 -Features - variables in your dataset (columns)
+
 -Target Variable - which you are trying to predict
+
 -Train data - data from which your algorithm learns
+
 -Test data - data to evaluate your model performance
+
 -Model - set of patterns learned from the data
+
 -Algorithm - specific machine learning process used to train your model
 
 
 ## What do you need to know to be a successful data scientist?
+
 1.Programming Knowledge
+
 2.Data modelling and evaluation
+
 3.Data Visualization and reporting
+
 4.Probability and Statistics
+
 5.Machine Learning techniques
+
 6.Relational Database knowledge
 
+
 ## Some of the Python libraries are :
+
 -Numpy
+
 -Scipy 
+
 -Scikit-learn
+
 -Pandas
+
 -TensorFlow 
+
 -PyTorch
+
 
 I am also quite new to Data Science and Machine learning world but I have 
 been spending some time from last year to understand this field and have done some research in terms 
