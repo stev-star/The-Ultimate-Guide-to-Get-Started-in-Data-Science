@@ -65,6 +65,7 @@ Data Science uses different parts mentioned in the pattern below to solve the pr
 -PyTorch
 
 
+
 I am also quite new to Data Science and Machine learning world but I have 
 been spending some time from last year to understand this field and have done some research in terms 
 of the best resources to learn machine learning, data science, etc.
@@ -72,6 +73,7 @@ Here is my list of some of the best courses to learn Data Science,
 Machine learning, and deep learning using Python and R programming language
 
 [Kaggle](https://www.kaggle.com/learn)
+
 Kaggle is a leading online data science community. They offer many online courses, 
 and their courses are geared towards beginners and intermediate learners. 
 The Kaggle course “Introduction to Data Science” is a great place to start. 
@@ -80,6 +82,7 @@ data visualization, and machine learning. You will also learn how to use the
 R programming language for data analysis.
 
 [Coursera](https://www.coursera.org/specializations/jhu-data-science)
+
 The Coursera Data Science Specialization is a comprehensive data science 
 course that is perfect for beginners. This 10-course specialization covers 
 data science basics, including data exploration, data visualization, data modeling, 
@@ -87,6 +90,7 @@ and machine learning. It teaches you how to use the R programming language to an
  and how to use Tableau to create data visualizations.
 
 [Harvard](https://pll.harvard.edu/series/professional-certificate-data-science)
+
 The Harvard Data Science Professional Certificate is a comprehensive data science 
 course that is perfect for beginners. This course will teach you how to use data 
 to solve business problems. You will learn how to collect, clean, and analyze data 
