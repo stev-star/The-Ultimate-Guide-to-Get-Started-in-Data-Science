@@ -67,7 +67,7 @@ Data Science uses different parts mentioned in the pattern below to solve the pr
 
 
 I am also quite new to Data Science and Machine learning world but I have 
-been spending some time from last year to understand this field and have done some research in terms 
+been spending some time to understand this field and have done some research in terms 
 of the best resources to learn machine learning, data science, etc.
 Here is my list of some of the best courses to learn Data Science, 
 Machine learning, and deep learning using Python and R programming language
